@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![Uploading aurora_kwon_1500.jpg…]()
 
+![aurora_kwon_1500.jpg…]()
 
 
 <!--
