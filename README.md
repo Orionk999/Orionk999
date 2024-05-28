@@ -7,29 +7,7 @@
 
 ![El universo es Infinito](./BhShredder_NASA_3482.jpg)
 
-
-```javascript
-{
-    "title": "portafolio",
-    "name": "www.whynotstreet.com",
-    "homepage": "https://github.com/Orionk999",
-    "demo": "https://orionk999.github.io/Walking-Character/",
-    "description": "This is a 3D character.",
-    "license": "MIT",
-    "author": "2024+ Daniel",
-    "maintainers": [
-        "Phillip J. Fry"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Orionk999"
-    },
-    "bugs": {
-        "url": "https://github.com/all-time.com"
-    }
-```
-
- <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
+<b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
