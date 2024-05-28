@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-![aurora_kwon_1500.jpg…]()
+![aurora_kwon_1500](https://github.com/Orionk999/Orionk999/assets/72630553/42b5be12-b36a-494e-ac62-469540f61da3)
+
 
 
 <!--
