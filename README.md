@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<a href="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"></a>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
 
