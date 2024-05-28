@@ -5,8 +5,6 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
-
 ![El universo es Infinito](./BhShredder_NASA_3482.jpg)
 
 
