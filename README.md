@@ -9,6 +9,33 @@
 
 ![El universo es Infinito](./BhShredder_NASA_3482.jpg)
 
+
+```javascript
+{
+    
+    "title": "portafolio",
+    "name": "www.whynotstreet.com",
+    "homepage": "https://github.com/Orionk999",
+    "demo": "https://orionk999.github.io/Walking-Character/",
+    "description": "This is a 3D character.",
+    "license": "MIT",
+    "browsers": true,
+    "author": "2024+ Daniel",
+    "maintainers": [
+        "Homer Simpson",
+        "Phillip J. Fry"
+    ],
+    "sponsors": [],
+    "contributors": ["Me"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Orionk999"
+    },
+    "bugs": {
+        "url": "https://github.com/all-time.com"
+    }
+```
+
  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
 
  
