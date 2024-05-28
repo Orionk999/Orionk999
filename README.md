@@ -1,4 +1,6 @@
-## Hi there 👋
+## _Hi there, I'm Daniel, a software developer..._ 
+
+## _Welcome to my repository_  👋
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
