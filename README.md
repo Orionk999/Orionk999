@@ -1,4 +1,4 @@
-## _Hi there, I'm Daniel, a software developer..._ 
+## _I'm Daniel..._ 
 
 ## _Welcome to my repository_  👋
 
@@ -10,21 +10,16 @@
 
 ```javascript
 {
-    
     "title": "portafolio",
     "name": "www.whynotstreet.com",
     "homepage": "https://github.com/Orionk999",
     "demo": "https://orionk999.github.io/Walking-Character/",
     "description": "This is a 3D character.",
     "license": "MIT",
-    "browsers": true,
     "author": "2024+ Daniel",
     "maintainers": [
-        "Homer Simpson",
         "Phillip J. Fry"
     ],
-    "sponsors": [],
-    "contributors": ["Me"],
     "repository": {
         "type": "git",
         "url": "https://github.com/Orionk999"
@@ -42,7 +37,6 @@
 ![](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab) 
 ![](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab&logoColor=white)
 
-- 💬 Ask me about:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
